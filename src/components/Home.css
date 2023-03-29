@@ -1,0 +1,76 @@
+.container {
+    height: 750px;
+    background: url('../images/sea.jpg');
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    padding: 50px 100px 50px 50px;
+    
+    
+    
+    
+}
+
+.container h1 {
+  padding: 40px;
+    
+    /*animation: left_to_right 20s ease infinite;*/
+    
+}
+
+/*.container p {
+    animation: right_to_left 20s ease infinite;
+}*/
+
+/*@keyframes right_to_left {
+    from {
+      margin-left: 100%;
+    }
+    to {
+      margin-left: 0;
+    }
+  }
+  
+  @keyframes left_to_right {
+    from {
+      margin-left: -100%;
+    }
+    to {
+      margin-left: 0;
+    }
+  }*/
+
+  @media screen and (max-width: 768px){
+
+    .container {
+      height: 400px;
+      
+      
+      
+      
+  }
+    .container {
+      font-size: 1.5rem;
+    }
+
+    .container h1 {
+
+      font-size: 2rem;
+      padding: 20px;
+      /*animation: left_to_right 20s ease infinite;*/
+      
+  }
+    
+
+
+  }
+
+
+
+
+
+
+
+ 

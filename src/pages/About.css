@@ -1,0 +1,36 @@
+.about-page {
+    height: 620px;
+}
+
+.about-page h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(11, 63, 134);
+    font-size: 2rem;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.about-page p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(11, 63, 134);
+    font-size: 1.3rem;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 60px;
+}
+
+@media screen and (max-width: 768px){
+
+    .about-page {
+        height: 720px;
+    }
+    
+    .about-page p {
+        font-size: 1rem;
+        margin-right: 60px;
+    }
+
+
+    }
+
+

@@ -1,0 +1,91 @@
+.destination-title{
+    height: 650px;
+    /*border: 1px solid red;*/
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+    color: rgb(11, 63, 134);
+}
+
+.destination-title h1{
+  padding: 40px;
+  font-size: 2.5rem;
+  
+}
+.destination-title p{
+    padding: 5px;
+    font-size: 1.5rem;
+    text-align: start;
+    margin-left: 290px;
+}
+
+.desdestination-container{
+    height: 450px;
+    display: grid;
+    grid-template-columns: 215px 215px 215px 215px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /*border: 1px solid red;*/
+    column-gap: 10px;
+    padding: 10px;
+
+
+}
+
+
+
+.desdestination-info{
+    /*border: 1px solid red;*/
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+
+    
+    /*display: grid;*/
+    /*grid-template-columns: 2fr 2fr 2fr 2fr;*/
+}
+
+.desdestination-info h3{
+    padding: 15px;
+
+}
+
+@media screen and (max-width: 768px){
+
+    .destination-title{
+        height: 700px;
+    }
+
+    .destination-title p{
+        margin-left: 150px;
+    }
+    
+    
+    
+    .desdestination-container{
+        display: grid;
+        grid-template-columns: 150px 150px 150px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    
+    
+    }
+
+    .desdestination-info h3{
+        padding: 10px;  
+      }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
