@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/1st-react-website-project/static/css/main.90f75a0f.css",
-    "main.js": "/1st-react-website-project/static/js/main.23cf736c.js",
+    "main.js": "/1st-react-website-project/static/js/main.4c58f75f.js",
     "static/media/sea.jpg": "/1st-react-website-project/static/media/sea.ae5879ab03ead513a99d.jpg",
     "index.html": "/1st-react-website-project/index.html",
     "main.90f75a0f.css.map": "/1st-react-website-project/static/css/main.90f75a0f.css.map",
-    "main.23cf736c.js.map": "/1st-react-website-project/static/js/main.23cf736c.js.map"
+    "main.4c58f75f.js.map": "/1st-react-website-project/static/js/main.4c58f75f.js.map"
   },
   "entrypoints": [
     "static/css/main.90f75a0f.css",
-    "static/js/main.23cf736c.js"
+    "static/js/main.4c58f75f.js"
   ]
 }
