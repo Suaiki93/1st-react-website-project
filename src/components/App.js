@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Navbar /> 
-      <Routes>
+      <Routes basename="/1st-react-website-project">
       <Route >
           <Route index element={<Home />} />  
           <Route exact path="/about" element={<About />}/>
